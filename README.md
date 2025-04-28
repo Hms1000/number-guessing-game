@@ -8,8 +8,8 @@ A simple Python project where the user tries to guess a randomly generated numbe
 - Hints are given if the guess is too high or too low.
 
 ## How to run
-1. Make sure Python is installed.
+1. Make sure Python3 is installed.
 2.Run the file:
   ```bash
-  python guess_the_number.py
+  python3 number_guessing_game.py
   ```                 
