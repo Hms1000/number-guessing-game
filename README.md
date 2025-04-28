@@ -10,7 +10,6 @@ A simple Python project where the user tries to guess a randomly generated numbe
 ## How to run
 1. Make sure Python is installed.
 2.Run the file:
-  '''bash
-
+  ```bash
   python guess_the_number.py
-  '''                 
+  ```                 
